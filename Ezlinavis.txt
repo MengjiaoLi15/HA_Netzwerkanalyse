@@ -1,0 +1,228 @@
+#Einstellung 1
+Boris Ivannovitch
+Olga Demiroff
+Van Aldin
+
+#Einstellung 2
+Knighton
+passers-by
+man-servant
+M.Papopolous
+Zia
+
+#Einstellung 3
+Van Aldin
+desk clerk
+Knighton
+
+#Einstellung 4
+Ruth Kettering
+Van Aldin
+Knighton
+
+#Einstellung 5
+Knighton
+Van Aldin
+Mr.Goby
+Derek Kettering
+Ruth Kettering
+
+#Einstellung 6
+Derek Kettering
+Mirelle
+Katherine
+a French woman
+
+#Einstellung 7
+Katherine
+servant Alice
+Dr.Harrison
+Dr.Harrison's wife
+Miss Viner
+
+#Einstellung 8
+Lady Tamplin
+Lenox
+Chubby
+Katherine
+Lawyer
+French lady mode
+
+#Einstellung 9
+Derek Kettering
+Cook's clerk
+Katherine
+Pavett
+Knighton
+
+#Einstellung 10
+Poirot
+Katherine
+Ruth Kettering
+Ada Mason
+Derek Kettering
+
+#Einstellung 11
+Katherine
+Chubby
+the conductor
+police personage
+Poirot
+
+#Einstellung 12
+Lady Tamplin
+Chubby
+Lenox
+Katherine
+Derek Kettering
+an American woman
+
+#Einstellung 13
+Van Aldin
+Knighton
+page boy
+Mr.Goby
+
+#Einstellung 14
+M.Carrege
+M.Caux
+Van Aldin
+Poirot
+Ada Mason
+
+#Einstellung 15
+Van Aldin
+M.Carrege
+M.Caux
+Poirot
+
+#Einstellung 16
+Poirot
+M.Caux
+Van Aldin
+
+#Einstellung 17
+Georges
+Poirot
+Le Comte
+M.Caux
+M.Carrege
+Derek Kettering
+
+#Einstellung 18
+Derek Kettering
+Mirelle
+Katherine
+
+#Einstellung 19
+Le Comte
+Hippolyte
+Mirelle
+
+#Einstellung 20
+Katherine
+Lenox
+Chubby
+Poirot
+Knighton
+Van Aldin
+
+#Einstellung 21 
+Katherine
+Lady Tamplin
+Lenox
+Knighton
+Poirot
+Derekt Kettering
+Van Aldin
+M.Papopolous
+
+#Einstellung 22
+M.Papopolous
+Zia
+Poirot
+Chasseur
+
+#Einstellung 23
+Van Aldin
+Poirot
+Ada Mason
+a messenger
+
+#Einstellung 24
+Poirot
+Van Aldin
+Mirelle
+Derek Kettering
+Georges
+Knighton
+
+#Einstellung 25
+Mirelle
+Derek Kettering
+Le Comte
+
+#Einstellung 26
+Poirot
+Knighton
+Katherine
+Lady Tamplin
+Derek Kettering
+
+#Einstellung 27
+Poirot
+Knighton
+Mirelle
+M.Caux
+M.Carrege
+
+#Einstellung 28
+Lenox
+Poirot
+Katherine
+M.Papopolous
+Zia
+Mirelle
+
+#Einstellung 29
+Katherine
+Lenox
+Poirot
+Knighton
+Van Aldin
+Hippolyte
+Marie Flavelle
+Mirelle
+
+#Einstellung 30
+Katherine
+Miss Viner
+Knighton
+
+#Einstellung 31
+Mr.Joseph Aarons
+Poirot
+
+#Einstellung 32
+Poirot
+Katherine
+
+#Einstellung 33
+Van Aldin
+Knighton
+Poirot
+
+#Einstellung 34
+Poirot
+Van Aldin
+Knighton
+
+#Einstellung 35
+Poirot
+Van Aldin
+M.Papopolous
+Zia
+
+#Einstellung 36
+Poirot
+Lenox
